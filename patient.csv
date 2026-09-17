@@ -1,0 +1,5 @@
+first_name,last_name,date_of_birth,gender,phone,email,address,blood_group,emergency_contact,allergies
+Rahul,Sharma,1998-05-14,Male,9876543210,rahul@example.com,Dehradun,A+,9876543211,None
+Ananya,Verma,2001-09-21,Female,9876543212,ananya@example.com,Haridwar,O+,9876543213,Penicillin
+Arjun,Rawat,1995-02-11,Male,9876543214,arjun@example.com,Rishikesh,B+,9876543215,None
+Priya,Joshi,1999-12-03,Female,9876543216,priya@example.com,Dehradun,AB+,9876543217,Dust
